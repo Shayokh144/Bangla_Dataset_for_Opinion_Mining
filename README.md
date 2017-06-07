@@ -1,6 +1,3 @@
-# Bangla_Dataset_for_Opinion_Mining
-<br />
-<br />
 ## Description of Dataset:
 <br />
 A sample text file is uploaded here, where comments on the topic- Samsung and Iphone blast are lebeled either positive or negative.
