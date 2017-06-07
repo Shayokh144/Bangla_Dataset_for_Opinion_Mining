@@ -7,4 +7,4 @@ We have collected around 10,000 comments and lebeled them like the uploaded one.
 
 
 
-[**RMQ tutorial](https://www.topcoder.com/community/data-science/data-science-tutorials/range-minimum-query-and-lowest-common-ancestor/)
+[BBC Bangla](https://www.topcoder.com/community/data-science/data-science-tutorials/range-minimum-query-and-lowest-common-ancestor/)
