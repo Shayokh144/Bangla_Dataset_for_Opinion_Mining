@@ -13,4 +13,4 @@ We have collected around 10,000 comments and lebeled them like the uploaded one.
 [BBC Bangla](https://www.facebook.com/BBCBengaliService/) <br />
 [Prothom Alo](https://www.facebook.com/DailyProthomAlo/) <br />
 
-### If you want to use the complete dataset,<br /> mail us at shayokh71@gmail.com or kaziafsana371@gmail.com.
+### If you want to use the complete dataset,<br /> mail us at shayokh71@gmail.com or kaziafsana373@gmail.com.
